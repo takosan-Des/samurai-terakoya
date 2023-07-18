@@ -68,7 +68,7 @@ footer {
 
 .nav_menu {
   /* background-color: red; 適用範囲確認用*/
-  padding-left: 14.25px;
+  padding-left: 35px;
   display: flex;
   align-items: center;
 }
@@ -217,12 +217,12 @@ section {
 
   #center_box_item02 p {
     margin-top: 17px;
-    margin-bottom: 35px;   
+    margin-bottom: 35px;
   }
 
   #right_box_item02 p {
     margin-top: 17px;
-    margin-bottom: 35px; 
+    margin-bottom: 35px;
   }
 
 
